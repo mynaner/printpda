@@ -1,0 +1,2 @@
+-keep class io.flutter.plugin.** { *; }
+-keep class io.flutter.plugins.** { *; }
